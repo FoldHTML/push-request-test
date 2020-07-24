@@ -4,6 +4,7 @@
       <h1>Hello vue.</h1>
       <h1>Hello vue.</h1>
       <h1>https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E</h1>
+      <h1>https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E</h1>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
